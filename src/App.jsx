@@ -3,10 +3,12 @@ import Semester2 from "./pages/semester2";
 import Semester1 from "./pages/semester1";
 import SubjectPage from "./pages/SubjectDetails";
 import ExtraCurricular from "./pages/extracurricular";
+import Home from "./pages/home";
 function App() {
   return (
     <Router>
       <Routes>
+        <Route path="/" element={<Home />} />
         <Route path="/semester1" element={<Semester1 />} />
         <Route path="/semester2" element={<Semester2 />} />
         <Route path="/extracurricular" element={<ExtraCurricular />} />
