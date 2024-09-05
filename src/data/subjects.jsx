@@ -121,7 +121,7 @@ export const semester2Subjects = [
     title: "Linear Algebra and Ordinary Differential Equations (EMAT102)",
     resources: [
       {
-        description: "Anu Rani Notes",
+        description: "Anu Rani Ma'am Notes",
         link: null,
       },
       {
