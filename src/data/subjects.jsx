@@ -70,6 +70,7 @@ export const semester1Subjects = [
   {
     id: 5,
     title: "New Age Life Skills (CSET103)",
+    // subtitle: "(CSET103)",
     resources: [
       {
         description: "Quiz 50 Marks End Term",
