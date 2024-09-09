@@ -27,7 +27,7 @@ export const semester1Subjects = [
     resources: [
       {
         description: "Anu Rani Ma’am Notes",
-        link: null,
+        link: "https://bennettu-my.sharepoint.com/:f:/g/personal/fullstack_bennett_edu_in/EuedrbnYEwxPqFvIyQ8d-rIBulZJfPE7ltj6O2G2RLCIJw?e=RsWkQ7",
       },
       {
         description: "Reference Book: Thomas Calculus",
@@ -35,7 +35,15 @@ export const semester1Subjects = [
       },
       {
         description: "Gajendra Purohit",
-        link: null,
+        link: "https://www.youtube.com/@gajendrapurohit",
+      },
+      {
+        description: "3 blue 1 brown",
+        link: "https://www.youtube.com/c/3blue1brown",
+      },
+      {
+        description: "Maths playlist sem 1",
+        link: "https://youtube.com/playlist?list=PLRZStkcHy4ATGBwKo1wabyXqjzoEbLLxa&si=NbDrOj2DpyYuX2i3",
       },
     ],
   },
@@ -65,6 +73,18 @@ export const semester1Subjects = [
         description: "First 8 videos (till midterm)",
         link: "https://www.youtube.com/playlist?list=PL9RcWoqXmzaLTYUdnzKhF4bYug3GjGcEc",
       },
+      {
+        description: "Engineers ki pathshaala",
+        link: "https://youtube.com/playlist?list=PL9RcWoqXmzaLTYUdnzKhF4bYug3GjGcEc&feature=shared",
+      },
+      {
+        description: "Organic chemistry tutor",
+        link: "https://youtube.com/playlist?list=PL0o_zxa4K1BV9E-N8tSExU1djL6slnjbL&feature=shared",
+      },
+      {
+        description: "Perfect computer engineer",
+        link: "https://youtube.com/playlist?list=PLPIwNooIb9vhiZRRq1fEWXvSLz7VMeqSh&feature=shared",
+      },
     ],
   },
   {
@@ -75,6 +95,21 @@ export const semester1Subjects = [
       {
         description: "Quiz 50 Marks End Term",
         link: null,
+      },
+    ],
+  },
+  {
+    id: 5,
+    title: "Bonus Links (PYQS)",
+    // subtitle: "(CSET103)",
+    resources: [
+      {
+        description: "Link 1",
+        link: "https://bennettu-my.sharepoint.com/personal/e21cseu0804_bennett_edu_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fe21cseu0804%5Fbennett%5Fedu%5Fin%2FDocuments%2FBennett%2F1st%20Year&ga=1",
+      },
+      {
+        description: "Link 2",
+        link: "https://onedrive.live.com/?authkey=%21AL7D4UGKHQa%2DUyg&id=16E1A3480CFEA7CF%21561&cid=16E1A3480CFEA7CF",
       },
     ],
   },
@@ -122,7 +157,7 @@ export const semester2Subjects = [
     resources: [
       {
         description: "Anu Rani Ma'am Notes",
-        link: null,
+        link: "https://bennettu-my.sharepoint.com/:f:/g/personal/fullstack_bennett_edu_in/EuedrbnYEwxPqFvIyQ8d-rIBulZJfPE7ltj6O2G2RLCIJw?e=RsWkQ7",
       },
       {
         description: "YouTube Playlist",
@@ -244,6 +279,20 @@ export const extraCurricularSkills = [
       {
         description: "Java Full Course",
         link: "https://youtu.be/xk4_1vDrzzo?si=H_AA0YcL5SgwoCC9",
+      },
+    ],
+  },
+  {
+    id: 8,
+    title: "DSA",
+    resources: [
+      {
+        description: "Dsa cpp",
+        link: "https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&si=4FYG17E899KixxHW",
+      },
+      {
+        description: "Dsa java",
+        link: "https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=4r8PLchSRXsspED_x",
       },
     ],
   },

@@ -5,10 +5,6 @@ import Previous from "./pages/previous";
 import SubjectPage from "./pages/SubjectDetails";
 import ExtraCurricular from "./pages/extracurricular";
 import Home from "./pages/home";
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/master
 function App() {
   return (
     <Router>
@@ -16,11 +12,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/semester1" element={<Semester1 />} />
         <Route path="/semester2" element={<Semester2 />} />
-<<<<<<< HEAD
         <Route path="/previous" element={<Previous />} />
-=======
-        <Route path="/previous" element={<Previous/>} />
->>>>>>> origin/master
         <Route path="/extracurricular" element={<ExtraCurricular />} />
         <Route path="/:semester/:id" element={<SubjectPage />} />
       </Routes>
@@ -28,8 +20,4 @@ function App() {
   );
 }
 
-<<<<<<< HEAD
 export default App;
-=======
-export default App;
->>>>>>> origin/master
