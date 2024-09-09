@@ -22,7 +22,7 @@ const Home = () => {
         <div className="layer star"></div>
         <div className="layer building"></div>
         <img
-          src="design assets fulsltack/black.jpg"
+          src="design_assets_fulsltack/black.jpg"
           style={{
             zIndex: 0,
             width: "100vw",
@@ -32,7 +32,7 @@ const Home = () => {
           }}
         />
         <img
-          src="design assets fulsltack/1.png"
+          src="design_assets_fulsltack/1.png"
           alt="FULLSTACK CLUB"
           style={{
             position: "absolute",
@@ -47,7 +47,7 @@ const Home = () => {
           }}
         />
         <img
-          src="design assets fulsltack/2.png"
+          src="design_assets_fulsltack/2.png"
           alt="Bennet university"
           style={{
             position: "absolute",
@@ -62,7 +62,7 @@ const Home = () => {
           }}
         />
         <img
-          src="design assets fulsltack/4.png"
+          src="design_assets_fulsltack/4.png"
           alt="9.2 sgpa"
           style={{
             position: "absolute",
@@ -77,7 +77,7 @@ const Home = () => {
           }}
         />
         <img
-          src="design assets fulsltack/3.png"
+          src="design_assets_fulsltack/3.png"
           alt="student cabinet"
           style={{
             position: "absolute",
@@ -92,7 +92,7 @@ const Home = () => {
           }}
         />
         <img
-          src="design assets fulsltack/7.png"
+          src="design_assets_fulsltack/7.png"
           alt="star"
           style={{
             position: "absolute",
@@ -107,7 +107,7 @@ const Home = () => {
           }}
         />
         <img
-          src="design assets fulsltack/7.png"
+          src="design_assets_fulsltack/7.png"
           alt="star"
           style={{
             position: "absolute",
@@ -125,7 +125,7 @@ const Home = () => {
 
       {/* Floating cards section */}
       <div className="cards-section ">
-        <div className="min-h-25 bg-gradient-to-b from-black via-blue-950 to-blue-700 text-white p-6">
+        <div className="min-h-35 bg-gradient-to-b from-black via-blue-950 to-blue-700 text-white p-6">
           <div className="text-center mb-12">
             <link
               href="https://fonts.googleapis.com/css2?family=Aboreto:wght@400;700&display=swap"
@@ -211,7 +211,7 @@ const Home = () => {
               >
                 <i className="fab fa-instagram "></i>{" "}
                 <img
-                  src="design assets fulsltack/inst.png"
+                  src="design_assets_fulsltack/inst.png"
                   alt="Instagram"
                   style={{ width: "40px", height: "40px", marginLeft: "5px" }}
                 />
@@ -225,7 +225,7 @@ const Home = () => {
               >
                 <i className="fab fa-linkedin "></i>{" "}
                 <img
-                  src="design assets fulsltack/lin.png"
+                  src="design_assets_fulsltack/lin.png"
                   alt="linkedin"
                   style={{
                     width: "37px",
@@ -247,7 +247,7 @@ const Home = () => {
               >
                 <i className="fab fa-instagram"></i>{" "}
                 <img
-                  src="design assets fulsltack/inst.png"
+                  src="design_assets_fulsltack/inst.png"
                   alt="Instagram id- _kart1k_"
                   style={{ width: "40px", height: "40px", marginLeft: "5px" }}
                 />
@@ -260,7 +260,7 @@ const Home = () => {
               >
                 <i className="fab fa-linkedin"></i>{" "}
                 <img
-                  src="design assets fulsltack/lin.png"
+                  src="design_assets_fulsltack/lin.png"
                   alt="linkedin"
                   style={{
                     width: "37px",
@@ -282,7 +282,7 @@ const Home = () => {
               >
                 <i className="fab fa-instagram"></i>{" "}
                 <img
-                  src="design assets fulsltack/inst.png"
+                  src="design_assets_fulsltack/inst.png"
                   alt="Instagram"
                   style={{ width: "40px", height: "40px", marginLeft: "5px" }}
                 />
@@ -295,7 +295,7 @@ const Home = () => {
               >
                 <i className="fab fa-linkedin"></i>{" "}
                 <img
-                  src="design assets fulsltack/lin.png"
+                  src="design_assets_fulsltack/lin.png"
                   alt="linkedin"
                   style={{
                     width: "37px",

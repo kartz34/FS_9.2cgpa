@@ -116,35 +116,32 @@ ul li a:hover {
 }
 
 .parallax .star {
-  background-image: url('design assets fulsltack/star2.png'); 
+  background-image: url("design_assets_fulsltack/star2.png");
   z-index: 2;
   background-size: cover;
-  transform: translateZ(-2px) scale(1.5); 
+  transform: translateZ(-2px) scale(1.5);
 }
-
 
 .parallax .building {
-  background-image: url('design assets fulsltack/5.png'); 
+  background-image: url("design_assets_fulsltack/5.png");
   background-position-y: 90%;
   z-index: 2;
-  transform: translateZ(0px) scale(1); 
+  transform: translateZ(0px) scale(1);
 }
-
 
 .cards-section {
   position: relative;
-  z-index: 3; 
+  z-index: 3;
   background-size: 100% 300px;
   background-position: 0% 100%;
-
 }
 .footer {
   position: relative;
-  z-index: 3; 
+  z-index: 3;
   background-size: 100% 300px;
   background-position: 0% 100%;
-  padding: 2rem; 
-  height: 30vh; 
+  padding: 2rem;
+  height: 30vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -152,6 +149,6 @@ ul li a:hover {
 }
 
 .footer h2 {
-  color: #fff; 
+  color: #fff;
   margin-bottom: 1rem;
 }
