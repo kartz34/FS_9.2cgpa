@@ -116,14 +116,14 @@ ul li a:hover {
 }
 
 .parallax .star {
-  background-image: url("design_assets_fulsltack/star2.png");
+  background-image: url("/design_assets_fulsltack/star2.png");
   z-index: 2;
   background-size: cover;
   transform: translateZ(-2px) scale(1.5);
 }
 
 .parallax .building {
-  background-image: url("design_assets_fulsltack/5.png");
+  background-image: url("/design_assets_fulsltack/5.png");
   background-position-y: 90%;
   z-index: 2;
   transform: translateZ(0px) scale(1);
