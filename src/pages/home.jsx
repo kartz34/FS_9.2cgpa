@@ -198,7 +198,7 @@ const Home = () => {
           rel="stylesheet"
         />
         <h2 className="text-2xl font-bold text-center mb-4">
-          Made with ♥️ by-
+          Made with ❤️ by
         </h2>
         <div className="flex flex-wrap justify-center mb-4">
           <div className="w-1/3 md:w-1/3 xl:w-1/3 p-4">
@@ -272,7 +272,7 @@ const Home = () => {
               </a>
             </p>
           </div>
-          <div className="w-1/3 md:w-1/3 xl:w-1/3 p-4">
+          <div className="w-1/2 md:w-1/3 xl:w-1/3 p-4">
             <h3 className="text-lg font-bold">Vaibhav Kothari</h3>
             <p className="text-sm">
               <a
