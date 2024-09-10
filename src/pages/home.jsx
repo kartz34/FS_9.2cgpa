@@ -76,7 +76,7 @@ const Home = () => {
             maxHeight: "100%",
           }}
         />
-        <img
+        {/* <img
           src="/design_assets_fulsltack/3.png"
           alt="student cabinet"
           style={{
@@ -89,8 +89,8 @@ const Home = () => {
             height: "auto",
             maxWidth: "100%",
             maxHeight: "100%",
-          }}
-        />
+          }} */}
+        {/* /> */}
         <img
           src="/design_assets_fulsltack/7.png"
           alt="star"
@@ -202,7 +202,7 @@ const Home = () => {
         </h2>
         <div className="flex flex-wrap justify-center mb-4">
           <div className="w-1/3 md:w-1/3 xl:w-1/3 p-4">
-            <h3 className="text-lg font-bold">Shubh <br />Gupta</h3>
+            <h3 className="sm:text-md font-bold">Shubh <br />Gupta</h3>
             <p className="text-sm">
               <a
                 href="https://www.instagram.com/shubh_.xyz?igsh=emUxY2dza21lamt1 "
@@ -238,7 +238,7 @@ const Home = () => {
             </p>
           </div>
           <div className="w-1/3 md:w-1/3 xl:w-1/3 p-4">
-            <h3 className="text-lg font-bold">Kartik <br /> Gupta</h3>
+            <h3 className="sm:text-md font-bold">Kartik <br /> Gupta</h3>
             <p className="text-sm">
               <a
                 href="https://www.instagram.com/_kart1k_?igsh=MTU5c3ByNzViajJrYw=="
@@ -273,7 +273,7 @@ const Home = () => {
             </p>
           </div>
           <div className="w-1/3 md:w-1/3 xl:w-1/3 p-4">
-            <h3 className="text-lg font-bold">Vaibhav Kothari</h3>
+            <h3 className="sm:text-md font-bold">Vaibhav Kothari</h3>
             <p className="text-sm">
               <a
                 href="https://www.instagram.com/vaibhavkothari_33?igsh=MTA4bG9lYW43M214cg=="
