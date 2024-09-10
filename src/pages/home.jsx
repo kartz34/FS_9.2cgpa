@@ -197,13 +197,14 @@ const Home = () => {
           href="https://fonts.googleapis.com/css2?family=Aboreto:wght@400;700&display=swap"
           rel="stylesheet"
         />
-        <h2 className="text-2xl font-bold text-center mb-4">
-          Made with ❤️ by
-        </h2>
+        <h2 className="text-2xl font-bold text-center mb-4">Made with ❤️ by</h2>
         <div className="flex flex-wrap justify-center mb-4">
           <div className="w-1/3 md:w-1/3 xl:w-1/3 p-4">
-            <h3 className="sm:text-md font-bold">Shubh <br />Gupta</h3>
-            <p className="text-sm">
+            <h3 className="sm:text-md font-bold">
+              Shubh <br />
+              Gupta
+            </h3>
+            {/* <p className="text-sm">
               <a
                 href="https://www.instagram.com/shubh_.xyz?igsh=emUxY2dza21lamt1 "
                 target="_blank"
@@ -235,10 +236,12 @@ const Home = () => {
                   }}
                 />
               </a>
-            </p>
+            </p> */}
           </div>
           <div className="w-1/3 md:w-1/3 xl:w-1/3 p-4">
-            <h3 className="sm:text-md font-bold">Kartik <br /> Gupta</h3>
+            <h3 className="sm:text-md font-bold">
+              Kartik <br /> Gupta
+            </h3>
             <p className="text-sm">
               <a
                 href="https://www.instagram.com/_kart1k_?igsh=MTU5c3ByNzViajJrYw=="
