@@ -202,7 +202,7 @@ const Home = () => {
         </h2>
         <div className="flex flex-wrap justify-center mb-4">
           <div className="w-1/3 md:w-1/3 xl:w-1/3 p-4">
-            <h3 className="text-lg font-bold">Shubh Gupta</h3>
+            <h3 className="text-lg font-bold">Shubh <br />Gupta</h3>
             <p className="text-sm">
               <a
                 href="https://www.instagram.com/shubh_.xyz?igsh=emUxY2dza21lamt1 "
@@ -238,7 +238,7 @@ const Home = () => {
             </p>
           </div>
           <div className="w-1/3 md:w-1/3 xl:w-1/3 p-4">
-            <h3 className="text-lg font-bold">Kartik Gupta</h3>
+            <h3 className="text-lg font-bold">Kartik <br /> Gupta</h3>
             <p className="text-sm">
               <a
                 href="https://www.instagram.com/_kart1k_?igsh=MTU5c3ByNzViajJrYw=="
@@ -272,7 +272,7 @@ const Home = () => {
               </a>
             </p>
           </div>
-          <div className="w-1/2 md:w-1/3 xl:w-1/3 p-4">
+          <div className="w-1/3 md:w-1/3 xl:w-1/3 p-4">
             <h3 className="text-lg font-bold">Vaibhav Kothari</h3>
             <p className="text-sm">
               <a
