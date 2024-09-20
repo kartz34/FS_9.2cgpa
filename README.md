@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="readme image/pre(1).gif" alt="website" style="width: 643px; height: auto;">
+  <img src="https://github.com/kartz34/FS_9.2cgpa/blob/master/pre%20(1).gif" alt="website" style="width: 643px; height: auto;">
 </p>
 </br >
 </br >
